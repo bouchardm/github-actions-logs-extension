@@ -16,7 +16,8 @@
 				"https://pipelines.actions.githubusercontent.com/serviceHosts/*",
 				"https://*.actions.githubusercontent.com/*",
 				"https://cdn.artifacts.gitlab-static.net/*",
-				"https://*.windows.net/actions-results/*"
+				"https://*.windows.net/actions-results/*",
+				"https://s3.amazonaws.com/prd357.gitlab.critical1.us-east-1.tmaws-gitlab-artifacts/*"
 			]
 		}
 	]	
